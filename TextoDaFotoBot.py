@@ -9,7 +9,6 @@ TOKEN_TELEGRAM = "TOKEN_HERE" #Preencha com o token fornecido pelo BotFather
 os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "GOOGLE_CREDENTIAL_HERE" #Preencha com a credencial fo
 bot = telebot.TeleBot(TOKEN_TELEGRAM)
 
-
 @bot.message_handler(commands=['start', 'help'])
 def send_welcome(message):
 	bot.reply_to(message, "Estou pronto, Basta me enviar a foto que deseja obter o texto!")
