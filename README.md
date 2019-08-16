@@ -1,4 +1,4 @@
-#[TextoDaFotoBot](https://t.me/TextoDaFotoBot) 
+[TextoDaFotoBot](https://t.me/TextoDaFotoBot) 
 
 [![GitHub Follow](https://img.shields.io/github/followers/johwconst?style=social)](https://github.com/johwconst/)
 
