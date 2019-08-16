@@ -1,12 +1,8 @@
-# [TextoDaFotoBot](https://t.me/TextoDaFotoBot) 
-
-Ajude:
-[PicPay](http://bit.ly/2YZnGqN) | 
-[Criptomoedas](http://bit.ly/2ZV2ljB)
+#[TextoDaFotoBot](https://t.me/TextoDaFotoBot) 
 
 [![GitHub Follow](https://img.shields.io/github/followers/johwconst?style=social)](https://github.com/johwconst/)
 
-![Rastreiobot](https://github.com/johwconst/TextoDaFotoBot/blob/master/TextoDaFotoBot.png)
+![TextoDaFotoBot](https://github.com/johwconst/TextoDaFotoBot/blob/master/TextoDaFotoBot.png)
 
 * [Sobre](#sobre)
 * [Configurando](#configurando)
@@ -16,8 +12,9 @@ Ajude:
 ## Sobre
 
 TextoDaFotoBot é um bot para o [Telegram](http://telegram.org) que tem como objetivo ajudar você a capturar os textos
-de suas imagens !
+de suas imagens!
 
+Para testar basta iniciar uma conversa com o @TextoDaFotoBot e enviar uma foto que contenha o texto que deseja receber em menssagem e aguardar a responsta !
 
 
 ## Configurando
