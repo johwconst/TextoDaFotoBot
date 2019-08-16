@@ -15,14 +15,14 @@ Ajude:
 
 ## Sobre
 
-TextoDaFotoBot é um bot para o [Telegram](http://telegram.org) que tem como objetivo ajudar você a capturar o texto
-das suas imagens !
+TextoDaFotoBot é um bot para o [Telegram](http://telegram.org) que tem como objetivo ajudar você a capturar os textos
+de suas imagens !
 
 
 
 ## Configurando
 
-Após realizar o donwload do repositorio, realize a instalação das aplicações necessarias:
+Após realizar o donwload do repositorio, realize a instalação das aplicações necessarias atráves do comando:
 
 ```
 pip install -r requirements.txt
