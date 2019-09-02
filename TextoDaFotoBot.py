@@ -19,7 +19,7 @@ def received_photo(message):
 @bot.message_handler(content_types=['photo'])
 def received_photo(message):
 
-	photo_message = message.photo[2].file_id
+	photo_message = message.photo[0].file_id
 	path = photo_message+".jpg"
 	
 	file_info = bot.get_file(photo_message)
