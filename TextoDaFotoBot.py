@@ -1,5 +1,4 @@
 # -*- coding: <UTF-8> -*-
-import requests
 import telebot
 import os
 import io
