@@ -47,4 +47,3 @@ python TextoDaFotoBot.py
 
 [Telegram](https://telegram.me/johwconst)
 
-[Instagram](https://instagram.com/johwconst)
